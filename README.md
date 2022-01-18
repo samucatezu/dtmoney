@@ -1,6 +1,4 @@
 
-<h1 align="center">:warning: em construcao </h1>
-
 
 <h1 align="center">
   <img alt="dtmoney" title="dtmoney" src="./.github/logo.svg" width="220px" />
